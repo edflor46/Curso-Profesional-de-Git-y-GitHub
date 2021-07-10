@@ -1,6 +1,6 @@
 # Curso Profesional de Git y GitHub
 
-## Crear un repositorio
+### Crear un repositorio
 Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su sistema de control de versiones. Solo debemos posicionarnos en la carpeta raíz de nuestro proyecto y ejecutar el comando ``git init``.
 
 ### Configura tu usuario y email
